@@ -1,0 +1,23 @@
+﻿Text,Telephone,email,html,filename,Trim_phrase,extract info
+3.14529,415-555-1234,tom@hogwarts.com,<a>This is a link</a>,workspace.doc,         The quick brown fox...,W/dalvikvm( 1553): threadid=1: uncaught exception
+-255.34,650-555-2345,tom.riddle@hogwarts.com,<a href='https://regexone.com'>Link</a>,img0912.jpg,jumps over the lazy dog.,E/( 1553): FATAL EXCEPTION: main
+128,(416)555-3456,tom.riddle+regexone@hogwarts.com,<div class='test_style'>Test</div>,updated_img0912.png,,E/( 1553): java.lang.StringIndexOutOfBoundsException
+1.90E+10,202 555 4567,tom@hogwarts.eu.com,<div>Hello <span>world</span></div>,documentation.html,,E/( 1553): at widget.List.makeView(ListView.java:1727)
+"123,340.00",4035555678,potter@hogwarts.com,,favicon.gif,,E/( 1553): at widget.List.fillDown(ListView.java:652)
+720p,1 416 555 9292,harry@hogwarts.com,,img0912.jpg.tmp,,E/( 1553): at widget.List.fillFrom(ListView.java:709)
+,,hermione+regexone@hogwarts.com,,access.lock,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
